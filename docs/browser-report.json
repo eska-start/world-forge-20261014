@@ -1,0 +1,62 @@
+{
+  "browser": "C:\\Program Files (x86)\\Microsoft\\Edge\\Application\\msedge.exe",
+  "url": "http://127.0.0.1:4173/?seed=20261017",
+  "consoleErrors": [],
+  "pageErrors": [],
+  "steps": {
+    "pageReady": true,
+    "terrainEditChanged": true,
+    "terrainEdit": {
+      "before": -5578676,
+      "after": -5555993,
+      "ops": 0
+    },
+    "terrainUndo": {
+      "undo": -5578676,
+      "aim": -5578676
+    },
+    "undoRestored": true,
+    "buildingPlaced": true,
+    "savedState": {
+      "seed": 20261017,
+      "time": 36,
+      "villagers": 11,
+      "buildings": 5,
+      "wood": 59
+    },
+    "restoredState": {
+      "seed": 20261017,
+      "time": 37,
+      "villagers": 11,
+      "buildings": 5,
+      "wood": 59
+    },
+    "stateRestoredAfterReload": true,
+    "loadTestCounts": {
+      "villagers": 150,
+      "trees": 2500,
+      "buildings": 120
+    },
+    "perfUnderLoad": {
+      "fpsAvg": 28.6,
+      "fpsLow": 17.7,
+      "aiMs": 15,
+      "drawCalls": 414,
+      "memMB": 49,
+      "villagers": 150,
+      "trees": 2455,
+      "buildings": 120
+    }
+  },
+  "startedAt": "2026-10-17T04:51:36.938Z",
+  "webgl": {
+    "vendor": "ANGLE (Intel, Intel(R) Graphics (0x000046D4) Direct3D11 vs_5_0 ps_5_0, D3D11)"
+  },
+  "conclusion": {
+    "simIntegrity": true,
+    "persistence": true,
+    "loadCountsOk": true,
+    "consoleErrorCount": 0,
+    "pageErrorCount": 0
+  }
+}
